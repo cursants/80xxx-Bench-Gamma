@@ -1,4 +1,4 @@
-# 80xxx Bench(Gamma) / 80xxx Бенч(Gamma)
+# 80xxx Bench(Gamma) 
 
 ![2bd2d33609e0e255e791cf0097a3f](https://github.com/user-attachments/assets/50228f22-04d3-4ef0-9e5d-276ea426b671)
 
