@@ -32,8 +32,12 @@
 - 286/386/486 CPU
 - VGA/EGA/CGA/PGA graphics
 
-### 📄 License
-Public Domain - free distribution and modification.
+#### 📄 License
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+**Copyright © 2025 CURSANT(I)**
+
+Permission is hereby granted... [Full text](/LICENSE)
 
 ---
 
@@ -66,10 +70,10 @@ Public Domain - free distribution and modification.
 - Процессор 286/386/486
 - Видеокарта VGA/EGA/CGA/PGA
 
-#### 📄 License
+### 📄 Лицензия
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-**Copyright © 2025 CURSANT(I)**
+**Авторские права © 2025 CURSANT(I)**
 
-Permission is hereby granted... [Full text](/LICENSE)
+Программа распространяется под лицензией MIT... [Полный текст](/LICENSE)
 
