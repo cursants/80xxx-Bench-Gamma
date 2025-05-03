@@ -17,7 +17,7 @@
 | 0.2.1A  | 2025.03.31 | April Fools version |
 | 0.2.2   | 2025.04.09 | Added license |
 | 0.3     | 2025.04.18 | CGA support, 5.25" floppy image, .OBJ file |
-| 0.3-h1  | 2025.04.19 | Timy text fix |
+| 0.3-h1  | 2025.04.19 | Tiny text fix |
 | 0.4     | 2025.04.23 | Two-level menu, PGA mode (256 colors) |
 
 ### 📦 Contents
