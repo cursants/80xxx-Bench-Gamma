@@ -66,8 +66,10 @@ Public Domain - free distribution and modification.
 - Процессор 286/386/486
 - Видеокарта VGA/EGA/CGA/PGA
 
-### 📄 Лицензия
-Public Domain - свободное распространение и модификация.
+#### 📄 License
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-*Автор: CURSANT(I), 2025*  
-*Протестировано в PCem на MS-DOS 3.30-7.1*
+**Copyright © 2025 CURSANT(I)**
+
+Permission is hereby granted... [Full text](/LICENSE)
+
