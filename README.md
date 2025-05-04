@@ -73,7 +73,7 @@ Permission is hereby granted... [Full text](/LICENSE)
 ### 📄 Лицензия
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-**Авторские права © 2025 CURSANT(I)**
+**Авторские права © 2025 CURSANT(Я)**
 
 Программа распространяется под лицензией MIT... [Полный текст](/LICENSE)
 
