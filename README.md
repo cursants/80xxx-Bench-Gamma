@@ -19,6 +19,7 @@
 | 0.3     | 2025.04.18 | CGA support, 5.25" floppy image, .OBJ file |
 | 0.3-h1  | 2025.04.19 | Tiny text fix |
 | 0.4     | 2025.04.23 | Two-level menu, PGA mode (256 colors) |
+| 0.5.0001| 2025.05.07 | MDA test |
 
 ### ⚙ Test types
 - Drawing lines (1000 times)
